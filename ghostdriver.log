@@ -1,0 +1,28 @@
+[INFO  - 2018-06-06T12:00:24.196Z] GhostDriver - Main - running on port 65308
+[INFO  - 2018-06-06T12:00:28.651Z] Session [34732860-6981-11e8-8622-f52fcf930880] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-06-06T12:00:28.651Z] Session [34732860-6981-11e8-8622-f52fcf930880] - page.customHeaders:  - {}
+[INFO  - 2018-06-06T12:00:28.652Z] Session [34732860-6981-11e8-8622-f52fcf930880] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-06-06T12:00:28.652Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 34732860-6981-11e8-8622-f52fcf930880
+[INFO  - 2018-06-06T12:00:38.121Z] Session [34732860-6981-11e8-8622-f52fcf930880] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-06-06T12:00:38.121Z] Session [34732860-6981-11e8-8622-f52fcf930880] - page.customHeaders:  - {}
+[INFO  - 2018-06-06T12:00:44.100Z] Session [34732860-6981-11e8-8622-f52fcf930880] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-06-06T12:00:44.101Z] Session [34732860-6981-11e8-8622-f52fcf930880] - page.customHeaders:  - {}
+[ERROR - 2018-06-06T12:01:02.345Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1528286462285
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-06-06T12:05:24.197Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-06-06T12:09:02.845Z] Session [34732860-6981-11e8-8622-f52fcf930880] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-06T12:09:02.845Z] Session [34732860-6981-11e8-8622-f52fcf930880] - page.onError - stack:
+  EJS (https://qidian.gtimg.com/c/=/lbf/1.0.4.2/ui/Nodes/Node.js,/qd/js/component/ajaxSetting.84b88.js,/lbf/1.0.4.2/qidian/report.js,/lbf/1.0.4.2/ui/Nodes/Textarea.js,/lbf/1.0.4.2/ui/Plugins/TextCounter.js,/lbf/1.0.4.2/util/EJS.js,/lbf/1.0.4.2/ui/widget/Panel/Panel.js,/lbf/1.0.4.2/ui/Nodes/Checkbox.js,/lbf/1.0.4.2/ui/widget/LightTip/LightTip.js,/lbf/1.0.4.2/ui/Nodes/Radio.js,/qd/js/component/common.08bc6.js,/qd/js/component/loading.aa676.js,/qd/js/read.qidian.com/common.9fddc.js,/qd/js/read.qidian.com/ejsChinese.a35d9.js,/qd/js/component/votePopup.b3bef.js,/qd/js/read.qidian.com/discussTalk.fbd5e.js:47)
+  (anonymous function) (https://qidian.gtimg.com/c/=/lbf/1.0.4.2/ui/Nodes/Node.js,/qd/js/component/ajaxSetting.84b88.js,/lbf/1.0.4.2/qidian/report.js,/lbf/1.0.4.2/ui/Nodes/Textarea.js,/lbf/1.0.4.2/ui/Plugins/TextCounter.js,/lbf/1.0.4.2/util/EJS.js,/lbf/1.0.4.2/ui/widget/Panel/Panel.js,/lbf/1.0.4.2/ui/Nodes/Checkbox.js,/lbf/1.0.4.2/ui/widget/LightTip/LightTip.js,/lbf/1.0.4.2/ui/Nodes/Radio.js,/qd/js/component/common.08bc6.js,/qd/js/component/loading.aa676.js,/qd/js/read.qidian.com/common.9fddc.js,/qd/js/read.qidian.com/ejsChinese.a35d9.js,/qd/js/component/votePopup.b3bef.js,/qd/js/read.qidian.com/discussTalk.fbd5e.js:1548)
+  success (https://qidian.gtimg.com/c/=/lbf/1.0.4.2/monitor/SpeedReport.js,/qd/js/component/login.a4de6.js,/qd/js/read.qidian.com/index.072e3.js,/lbf/1.0.4.2/util/report.js,/lbf/1.0.4.2/lang/Class.js,/lbf/1.0.4.2/util/serialize.js,/lbf/1.0.4.2/util/Attribute.js,/lbf/1.0.4.2/lang/toArray.js,/lbf/1.0.4.2/lang/extend.js,/lbf/1.0.4.2/lang/isPlainObject.js:869)
+  f (https://qidian.gtimg.com/c/=/lbf/1.0.4.2/lib/jQuery.js,/lbf/1.0.4.2/util/Cookie.js:1)
+  fireWith (https://qidian.gtimg.com/c/=/lbf/1.0.4.2/lib/jQuery.js,/lbf/1.0.4.2/util/Cookie.js:1)
+  r (https://qidian.gtimg.com/c/=/lbf/1.0.4.2/lib/jQuery.js,/lbf/1.0.4.2/util/Cookie.js:1)
+  r (https://qidian.gtimg.com/c/=/lbf/1.0.4.2/lib/jQuery.js,/lbf/1.0.4.2/util/Cookie.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-06-06T12:10:25.226Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-06-06T12:15:33.252Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
